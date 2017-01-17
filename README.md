@@ -1,1 +1,1 @@
-# Infinite-Points-and-Regressions
+# Infinite Points & Regressions
